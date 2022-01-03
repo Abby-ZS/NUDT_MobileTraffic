@@ -35,7 +35,7 @@ The dataset contains the following files:
         |
         ----date folder
           |
-          ----pcaps, logs
+          ----pcaps(.pcap), logs(.txt)
 
     *  The pcap file is named by the time it was collected (netlogdate_hour_minute_second(_ipv6).pcap). IPv6 and IPv4 packets are stored in different pcap files with the same name prefix, and their labels are saved in one log file. 
 
