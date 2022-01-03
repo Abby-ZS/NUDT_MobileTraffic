@@ -90,11 +90,13 @@ The dataset contains the following files:
 
 (3) deviceinfo.csv
     
-    * This file provides the device information of volunteers, including user id, Phone brand, Phone model, and Android OS version.  
+    * This file provides the device information of volunteers, 
+      including user id, Phone brand, Phone model, and Android OS version.  
 
 
 (4) byteinfo.csv
 
     *  This file provides the byte distribution of truncated HTTP Biflows. 
-       The columns in the file include user_id, filename, srcIP, srcPort, dstIP, dstPort, timestamp (the timestampe of the first packet in the Biflow), 
+       The columns in the file include user_id, filename, srcIP, srcPort, dstIP, dstPort, 
+       timestamp (the timestampe of the first packet in the Biflow), 
        number of occurrences per byte (0-255), app_label (in Chinese), app_label (in English). 
