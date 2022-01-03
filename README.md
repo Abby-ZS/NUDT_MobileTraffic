@@ -15,7 +15,7 @@ The dataset contains the following files:
 
 |        data        |          file name           |                        description                         |
 | :----------------: | :--------------------------: | :--------------------------------------------------------: |
-|    traffic data    | data1.tar.gz to data8.tar.gz |     Source traffic file, including pcap and log files.     |
+|    traffic data    | data1.tar.gz to data8.tar.gz |     Source traffic files, including pcap and log files.     |
 |  app information   |         APPList.csv          |                The information of 350 apps.                |
 | device information |        deviceinfo.csv        | The information of devices involved in traffic collection. |
 | Bytes information  |        bytesinfor.csv        |      The byte distribution of truncated HTTP Biflows       |
