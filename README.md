@@ -17,8 +17,8 @@ The dataset contains the following files:
 | :----------------: | :--------------------------: | :--------------------------------------------------------: |
 |    traffic data    | data1.tar.gz to data8.tar.gz |     Source traffic files, including pcap and log files.     |
 |  app information   |         APPList.csv          |                The information of 350 apps.                |
-| device information |        deviceinfo.csv        | The information of devices involved in traffic collection. |
-| Bytes information  |        bytesinfor.csv        |      The byte distribution of truncated HTTP Biflows       |
+| device information |        userinfo.csv          | The information of devices involved in traffic collection. |
+| Bytes information  |        bytesinfo.csv         |      The byte distribution of truncated HTTP Biflows       |
 
 
 (1) data1.tar.gz to data8.tar.gz
@@ -81,13 +81,13 @@ The dataset contains the following files:
 	 **************************************************************
 
 
-(3) deviceinfo.csv
+(3) userinfo.csv
     
     * This file provides the device information of volunteers, 
       including user id, Phone brand, Phone model, and Android OS version.  
 
 
-(4) byteinfo.csv
+(4) bytesinfo.csv
 
     *  This file provides the byte distribution of truncated HTTP Biflows. 
        The columns in the file include user_id, filename, srcIP, srcPort, dstIP, dstPort, 
