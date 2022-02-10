@@ -20,6 +20,7 @@ The dataset contains the following files:
 | device information |        userinfo.csv          | The information of devices involved in traffic collection. |
 | Bytes information  |        bytesinfo.csv         |      The byte distribution of truncated HTTP Biflows       |
 
+** Note that data4.tar.gz, data5.tar.gz, data6.tar.gz, and data8.tar.gz are further compressed into multiple files (using 7zip software) and the sub volumes are stored in data4, data5, data6 and data8 folders, respectively.
 
 (1) data1.tar.gz to data8.tar.gz
    
