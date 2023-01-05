@@ -10,7 +10,7 @@ traffic are not allowed.
 
 If researches are conducted on our dataset and the results are published, please cite our paper. 
 
-The dataset contains the following files:
+The dataset contains the following files (The total size of the compressed data is around 293GB):
 
 
 |        data        |          file name           |                        description                         |
