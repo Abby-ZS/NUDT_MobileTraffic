@@ -95,4 +95,4 @@ The dataset contains the following files (The total size of the compressed data 
        timestamp (the timestampe of the first packet in the Biflow), 
        number of occurrences per byte (0-255), app_label (in Chinese), app_label (in English). 
        
-NOTE: We had performed the necessary anonymization on the dataset. The main processing includes partial traffic removal (only TCP and DNS traffic is retained), non-TLS flow payload truncation (the first 1500 payload bytes of non-TLS biflows are retained), IP anonymization (IP remapping) and user personal information removal.
+NOTE: We had performed the necessary anonymization on the dataset. The main processing includes partial traffic removal (only TCP and DNS traffic is retained), non-TLS flow payload truncation (the first 1500 payload bytes of non-TLS biflows are retained), IP anonymization (IP remapping) and user personal information removal(https://doi.org/10.1155/2022/5085200).
