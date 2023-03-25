@@ -1,5 +1,5 @@
-# NUDT_MobileTraffic
-An anonymized mobile traffic dataset published by Chen's team (National University of Defense Technology, school of computers)
+# MobileTraffic Dataset
+An anonymized mobile traffic dataset published by the Network Forensics Research Lab (http://netforensicslab.com/)
 
 To download the dataset, please send an email to zhaoshuang16@nudt.edu.cn to obtain the download link. Meanwhile, please attach your contact information 
 (name, organization) in the email.
