@@ -8,7 +8,9 @@ Using this dataset indicates that you agree to our data sharing policy. Without 
 third parties, nor shall it be used for any purpose other than academic research. At the same time, attempts to discover or restore user privacy in 
 traffic are not allowed.
 
-If researches are conducted on our dataset and the results are published, please cite our paper. 
+If researches are conducted on our dataset and the results are published, please cite the following paper:
+
+"Shuang Zhao, Shuhui Chen, Fei Wang, Ziling Wei, Jincheng Zhong, Jianbing Liang, A Large-Scale Mobile Traffic Dataset For Mobile Application Identification, The Computer Journal, 2023;, bxad076, https://doi.org/10.1093/comjnl/bxad076"
 
 The dataset contains the following files (The total size of the compressed data is around 293GB):
 
